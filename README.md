@@ -22,7 +22,7 @@ I've been working part-time as an **Assistant Service Desk Technician at Wells E
 
 ## 🏠 Homelab
 
-I run a homelab on Raspberry Pi to learn and break things outside of work:
+I run a homelab on Raspberry Pi to learn things outside of work:
 
 - **Pi-hole** — network-wide DNS filtering configured at the router level
 - **Home Assistant** — centralized IoT automation and device management
