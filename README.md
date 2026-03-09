@@ -1,7 +1,7 @@
 ## Hey, I'm Preston 👋
 
 **Computer Engineering @ Purdue University** (graduating May 2026):
-- Concentration in Comuter Systems
+- Concentration in Computer Systems
 - Minor in Spanish
 
 ## 📚 Current Coursework
