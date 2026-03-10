@@ -1,4 +1,5 @@
-## Hey, I'm Preston 👋
+## 👋Hey, I'm Preston,
+a computer engineering student looking to apply the experience I've gained in a help desk role to a job in system administration or cybersecurity.
 
 **Computer Engineering @ Purdue University** (graduating May 2026):
 - Concentration in Computer Systems
@@ -14,7 +15,7 @@
 
 ## 💼 Part-Time Help Desk
 
-I've been working part-time as an **Assistant Service Desk Technician at Wells Enterprises** (a large-scale ice cream manufacturer) the past 2 years while finishing up my degree. While on-site this past summer, we took on a project involving the replacement of all timeclocks on the production floor. My team was tasked with configuring these clocks to properly work with the network and then install them over the course of about a week. My current day-to-day involves:
+I've been working part-time as an **Assistant Service Desk Technician at Wells Enterprises** (a large-scale ice cream manufacturer) since 2024 while finishing up my degree. While on-site this past summer, we took on a project involving the replacement of all timeclocks on the production floor. My team was tasked with configuring these clocks to properly work with the network and then install them over the course of about a week. My current day-to-day involves:
 
 - Managing and resolving tickets in **FreshService** across hardware, software, and network issues in a manufacturing environment
 - Supporting **Active Directory** — account provisioning, group membership, password management
@@ -34,6 +35,10 @@ I run a homelab on Raspberry Pi to learn things outside of work:
 **OS:** Linux (Ubuntu, Fedora, Raspberry Pi OS) · Windows 10/11 · Windows Server  
 **Tools:** Active Directory · Docker · Git · GitHub Actions · AWS · Pi-hole · Home Assistant  
 **IT:** FreshService · Endpoint Troubleshooting · Computer Imaging · Network Configuration
+
+## 🎯 Current Focus
+- Currently studying for **CompTIA Security+** certification
+- Seeking systems administration or cybersecurity roles in Florida
 
 # 📫 Get in touch
 
