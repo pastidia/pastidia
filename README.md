@@ -43,5 +43,4 @@ I run a homelab on Raspberry Pi to learn things outside of work:
 # 📫 Get in touch
 
 - 📧 preasti03@gmail.com
-- 🐙 You're already here
 
